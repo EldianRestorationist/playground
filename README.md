@@ -1,1 +1,2 @@
 # playground
+This repo will serve as a place to practice github basics. My goal is to add a progress log on a daily basis of what I've learned or accomplished each day. Hopefully I will eventually not need to use this anymore as I will be more familiar with commits and merges etc. 
