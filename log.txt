@@ -5,3 +5,8 @@ My goal is to push something to github everyday for practice.
 I understand how to commit and push straight to git from vscode.
 For now I would like to do it on the terminal until I am more familiar with the process.
 If you start off the hard way, you learn more and it can only get easier.
+
+Thursday February 11, 2021
+
+Yesterday I took the day off to help heal up a personal injury.
+
