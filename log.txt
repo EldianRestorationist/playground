@@ -10,3 +10,6 @@ Thursday February 11, 2021
 
 Yesterday I took the day off to help heal up a personal injury.
 
+Today I finished Fundamentals Part 3 on the JavaScript basics
+in the Foundations. I am now 65% complete in Foundations.
+I also created a folder for notes in  the playground repo.
