@@ -1,4 +1,4 @@
-Tuesday February 9, 2021 
+//Tuesday February 9, 2021 
 
 Today I watched several videos on using basics in VScode and Github. 
 My goal is to push something to github everyday for practice.
@@ -6,10 +6,16 @@ I understand how to commit and push straight to git from vscode.
 For now I would like to do it on the terminal until I am more familiar with the process.
 If you start off the hard way, you learn more and it can only get easier.
 
-Thursday February 11, 2021
+//Thursday February 11, 2021
 
 Yesterday I took the day off to help heal up a personal injury.
 
 Today I finished Fundamentals Part 3 on the JavaScript basics
 in the Foundations. I am now 65% complete in Foundations.
 I also created a folder for notes in  the playground repo.
+
+//Friday February 12, 2021
+
+Completed Problem Solving on JavaScript basics in Foundations.
+I am now 68% complete in Foundations.
+Created repo for new project Rock-Paper-Sizzors.
