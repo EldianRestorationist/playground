@@ -19,3 +19,8 @@ I also created a folder for notes in  the playground repo.
 Completed Problem Solving on JavaScript basics in Foundations.
 I am now 68% complete in Foundations.
 Created repo for new project Rock-Paper-Sizzors.
+
+//Saturday February 13, 2021
+
+Worked on Rock Paper Scissors. Almost complete I think.
+Stuck on loop execution. Asked group for help.
