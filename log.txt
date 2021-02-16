@@ -24,3 +24,9 @@ Created repo for new project Rock-Paper-Sizzors.
 
 Worked on Rock Paper Scissors. Almost complete I think.
 Stuck on loop execution. Asked group for help.
+
+//Monday February 15, 2021
+
+Finished Clean Code on JavaScript basics
+Currently 71% finished with Foundations
+Took notes on Arrays and Loops
