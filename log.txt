@@ -32,3 +32,9 @@ Currently 71% finished with Foundations
 Took notes on Arrays and Loops
 Finished Rock-Paper-Scissors
 Currently 75% finished with Foundations
+
+//Tuesday February 16, 2021
+
+Installed Node and Jasmine
+worked on TDD practice in javascript-exercises repo
+Completed helloWorld, repeatString, reverseString, incomplete removeFromArray
