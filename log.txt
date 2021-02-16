@@ -30,3 +30,5 @@ Stuck on loop execution. Asked group for help.
 Finished Clean Code on JavaScript basics
 Currently 71% finished with Foundations
 Took notes on Arrays and Loops
+Finished Rock-Paper-Scissors
+Currently 75% finished with Foundations
