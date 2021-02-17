@@ -38,3 +38,7 @@ Currently 75% finished with Foundations
 Installed Node and Jasmine
 worked on TDD practice in javascript-exercises repo
 Completed helloWorld, repeatString, reverseString, incomplete removeFromArray
+Completed Fundamentals Part 4 in JavaScript basics
+Currently 78% finished with Foundations
+Still need to complete javascript-exercises
+Started DOM Manipulation
