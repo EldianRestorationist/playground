@@ -115,3 +115,71 @@ container.appendChild(content);
 //  </div>
 //</body>
 
+//Events
+//actions that occur on webpage like mouse-clicks or keypresses
+
+//three methods
+//method 1 - attach functions attributes directly on HTML elements
+<button onclick="alert('Hello World')">Click Me</button>
+//cluttering HTML w/ JS, can only have one 'onclick' per element
+
+//method 2 -set "on_event_" property on DOM onject in JS
+//<!-- the html file -->
+<button id="btn">Click Me</button>
+//the JavaScript file
+const btn = document.querySelector('#btn');
+btn.onclick = => alert("Hello World");
+//can still only have 1 "onclick" property
+
+//method 3 - attach event listeners to nodes in JS
+//<!-- the html file -->
+<button id="btn">Click Me Too</button>
+//the JavaScript file
+const btn = document.querySelector('#btn');
+btn.addEventListener('click', () => {
+    alert("Hello World");
+});
+//allows multiple events, felxible
+function alertFunction() {
+    alert("YAY! YOU DID IT!");
+}
+//method 2
+btn.onclick = alertFunction;
+//method 3
+btn.addEventListener('click', alertFunction);
+
+//access more info about event by passing parameter to funciton you are calling
+btn.addEventListener('click', function (e) {
+    console.log(e);
+});
+//e object that references event itself
+//in that object, access to properties and functions, like mouse button or key, or 
+//info on target
+btn.addEventListener('click', function (e) {
+    console.log(e.target);
+});
+//gives node in console
+btn.addEventListener('click', function (e) {
+    e.target.style.background = 'blue';
+});
+//makes the button blue after clicked
+
+//attach listeners to groups of nodes
+//html 
+<div id="containter">
+    <button id="1">Click Me</button>
+    <button id="2">Click Me</button>
+    <button id="3">Click Me</button>
+</div>
+//js
+//buttons is a  node list, like array but not
+const buttons = document.querySelectorAll('button');
+//use .forEach to iterate through each button
+buttons.forEach((bugtton) => {
+    //and for each one add 'click' listener
+    button.addEventListener('click', () => {
+        alert(button.id);
+    });
+});
+//alerts the id name when clicked
+//click, dblclick, keypress, keydown, keyup
