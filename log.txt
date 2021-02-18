@@ -42,3 +42,6 @@ Completed Fundamentals Part 4 in JavaScript basics
 Currently 78% finished with Foundations
 Still need to complete javascript-exercises
 Started DOM Manipulation
+
+//Wednesday February 17, 2021
+Took notes on DOM Manipulation
