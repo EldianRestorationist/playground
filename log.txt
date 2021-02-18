@@ -44,4 +44,11 @@ Still need to complete javascript-exercises
 Started DOM Manipulation
 
 //Wednesday February 17, 2021
+
 Took notes on DOM Manipulation
+
+//Thursday February 18, 2021
+
+Completed exerciseDOM
+Completed DOM manipulation reading
+Completed second exerciseDOM
