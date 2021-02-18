@@ -39,3 +39,33 @@ paraTwo.textContent = 'ME TOO!';
 contentTwo.appendChild(headerTwo);
 contentTwo.appendChild(paraTwo);
 container.appendChild(contentTwo);
+
+
+const btn = document.querySelector('#btn');
+btn.addEventListener('click', () => {
+    alert("Hello World");
+});
+
+const btntwo = document.querySelector('#btntwo');
+function alertFunction() {
+    alert("YAY! YOU DID IT!");
+}
+btntwo.addEventListener('click', alertFunction);
+
+//btntwo.addEventListener('click', function (e) {
+ //   console.log(e);
+//});
+//btntwo.addEventListener('click', function (e) {
+//    console.log(e.target);
+//});
+//btntwo.addEventListener('click', function (e) {
+//    e.target.style.background = 'blue';
+//});
+
+
+const buttons = document.querySelectorAll('button');
+buttons.forEach((button) => {
+    button.addEventListener('click', () => {
+        alert(button.id);
+    });
+});
